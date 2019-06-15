@@ -1,0 +1,20 @@
+﻿<HTML>
+
+<HEAD>
+
+<SCRIPT LANGUAGE ="VBSCRIPT"> VB script </SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="fffff0">
+  <p align="center">TEXT OF DOCUMENT is a very good.
+  
+
+<H1>
+tHIUS MY FIRST WEB Page
+</H1>
+<hr size = 5 width = "20%">
+
+</BODY>
+
+</HTML>
